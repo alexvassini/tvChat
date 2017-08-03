@@ -12,6 +12,7 @@
 		6B3F732D1F33B2AC002CA70F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B3F732B1F33B2AC002CA70F /* Main.storyboard */; };
 		6B3F732F1F33B2AC002CA70F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B3F732E1F33B2AC002CA70F /* Assets.xcassets */; };
 		6B3F73321F33B2AC002CA70F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B3F73301F33B2AC002CA70F /* LaunchScreen.storyboard */; };
+		6B3F733A1F33B3A5002CA70F /* MultipeerServiceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B3F73391F33B3A5002CA70F /* MultipeerServiceManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6B3F732E1F33B2AC002CA70F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6B3F73311F33B2AC002CA70F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6B3F73331F33B2AC002CA70F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B3F73391F33B3A5002CA70F /* MultipeerServiceManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MultipeerServiceManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				6B3F73271F33B2AC002CA70F /* AppDelegate.swift */,
 				6B3F73291F33B2AC002CA70F /* ViewController.swift */,
 				6B3F732B1F33B2AC002CA70F /* Main.storyboard */,
+				6B3F73391F33B3A5002CA70F /* MultipeerServiceManager.swift */,
 				6B3F732E1F33B2AC002CA70F /* Assets.xcassets */,
 				6B3F73301F33B2AC002CA70F /* LaunchScreen.storyboard */,
 				6B3F73331F33B2AC002CA70F /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				6B3F732A1F33B2AC002CA70F /* ViewController.swift in Sources */,
 				6B3F73281F33B2AC002CA70F /* AppDelegate.swift in Sources */,
+				6B3F733A1F33B3A5002CA70F /* MultipeerServiceManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
